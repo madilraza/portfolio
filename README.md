@@ -1,8 +1,9 @@
 # Adil-Resume
- DEVELOPER IT AND CYBER CENTRE
-DEVELOPER IT AND CYBER CENTRE
+ 
+# DEVELOPER IT AND CYBER CENTRE
 
-Home Blog Feed Raza Samo khujlee family Awesmo speaks Open Source ProjectsMore
+ # Home # Blog Feed  # Open Source Projects
+ 
 Open Source Projects
 Home
  
