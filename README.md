@@ -9,12 +9,9 @@
  
  # Blog Feed
  
-Raza Samo khujlee family Awesmo speaks
- 
-Open Source Projects
- 
+ # Open Source Projects
 
-# Open Source Projects
+# Open Source Projects Made By Ary Developer
 For over 20 years the Open Source Initiative (OSI) has worked to raise awareness and adoption of open source software, and build bridges between open source communities of practice. As a global non-profit, the OSI champions software freedom in society through education, collaboration, and infrastructure, stewarding the Open Source Definition (OSD), and preventing abuse of the ideals and ethos inherent to the open source movement.
 
 # Open source works
