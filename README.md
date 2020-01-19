@@ -27,7 +27,7 @@ It is a large story starting with my whole documentation and the needed and the 
  # Challenges I ran into
 there were big changes that I faced during the designing face and after the design it was very tuff to implement all the interfaces and use multi-purpose API and lib to do smoothly and the backend was very horrible job that was the biggest challenge after it was the face of testing and reducing the chances of the bug and make as proficient as possible
 
-Accomplishments that I’m proud of
+ # Accomplishments that I’m proud of
 today I have a global platform especially for Pakistani to work remotely and earn as they want on their projects without any difficulties all the payments and the resources and tools are free
 
 What I learned
