@@ -24,7 +24,7 @@ The huge platform for the Tech geeks and the developers related to IT and data s
  # How I built it
 It is a large story starting with my whole documentation and the needed and the resources that I want to do that project and what understanding to do .working on the different libraries of the java and scala on a single platform to reduce the hard code and make understandable approach for everyone .and working more efficiently as possible
 
-Challenges I ran into
+ # Challenges I ran into
 there were big changes that I faced during the designing face and after the design it was very tuff to implement all the interfaces and use multi-purpose API and lib to do smoothly and the backend was very horrible job that was the biggest challenge after it was the face of testing and reducing the chances of the bug and make as proficient as possible
 
 Accomplishments that I’m proud of
