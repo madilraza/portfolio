@@ -1,5 +1,5 @@
 https://madilraza.github.io/MuhammadAdil.github.io/
-# Muhammad Hassan-Resume
+# Muhammad Adil Raza-Resume
 
 # DEVELOPER IT AND CYBER CENTRE
 
