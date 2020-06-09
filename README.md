@@ -7,7 +7,8 @@ cd portfolio
 cd js 
 node index.js
 your application is running on 8000 port
-
+portfolio .
+customize your details and put to the server 
 
 https://madilraza.github.io/MuhammadAdil.github.io/
 # Muhammad Adil Raza-Resume
