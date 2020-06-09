@@ -1,3 +1,14 @@
+
+# fork the repo 
+git clone https://github.com/madilraza/portfolio.git
+# npm install 
+cd portfolio 
+# npm run server and node
+cd js 
+node index.js
+your application is running on 8000 port
+
+
 https://madilraza.github.io/MuhammadAdil.github.io/
 # Muhammad Adil Raza-Resume
 
